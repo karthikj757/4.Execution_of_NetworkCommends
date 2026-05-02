@@ -406,7 +406,7 @@ Interface: 10.47.117.248 --- 0x10
   255.255.255.255       ff-ff-ff-ff-ff-ff     static
 
 C:\Users\acer>
-```
+``` 
 
 ## Result
 Thus Execution of Network commands Performed 
