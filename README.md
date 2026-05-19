@@ -34,61 +34,64 @@ This commands includes
 
 ### netstat:
 
-
-<img width="956" height="536" alt="cn4   1" src="https://github.com/user-attachments/assets/0f8c3cf6-1b94-49e5-beea-fe1bbe2668a2" />
+<img width="890" height="893" alt="Screenshot 2026-05-19 212152" src="https://github.com/user-attachments/assets/884f0985-dcd2-497f-8633-fed012df93f4" />
 
 
 ### ipconfig:
 
 
-<img width="998" height="932" alt="2" src="https://github.com/user-attachments/assets/27e71af3-ba64-4bed-915c-2e8d9ffae168" />
+<img width="957" height="702" alt="Screenshot 2026-05-19 212239" src="https://github.com/user-attachments/assets/65ba5172-8a07-4f1c-bf25-58b6b80ac596" />
+
 
 
 ### ping:
 
 
-<img width="938" height="312" alt="3" src="https://github.com/user-attachments/assets/22cc7fe8-e183-4c24-859e-753223620a43" />
+<img width="849" height="294" alt="Screenshot 2026-05-19 212313" src="https://github.com/user-attachments/assets/d459dc34-a8a8-4dc4-a195-276ca12411fe" />
+
 
 
 ### tracert:
 
+<img width="1037" height="487" alt="Screenshot 2026-05-19 212446" src="https://github.com/user-attachments/assets/292f8663-15f2-4911-b929-0e7fe9d16ea3" />
 
-<img width="1061" height="560" alt="4" src="https://github.com/user-attachments/assets/fc15816a-ccf4-4ea4-8123-9c353560aeef" />
 
 ### nslookup:
 
+<img width="479" height="162" alt="Screenshot 2026-05-19 212616" src="https://github.com/user-attachments/assets/96402f4b-1a8d-4d58-bdf7-975d5e0b9857" />
 
-<img width="765" height="177" alt="5" src="https://github.com/user-attachments/assets/ac97f311-4305-4d3d-b176-1cc5743137ea" />
 
 ### getmac:
 
 
-<img width="955" height="222" alt="6" src="https://github.com/user-attachments/assets/8ced261d-0e79-406e-836b-b83cff574dfc" />
+<img width="979" height="149" alt="Screenshot 2026-05-19 212656" src="https://github.com/user-attachments/assets/4bf334e9-e29b-4a48-913c-8227d73ca345" />
 
 
 ### hostname:
 
+<img width="472" height="72" alt="Screenshot 2026-05-19 212759" src="https://github.com/user-attachments/assets/b796511b-8302-4853-b51e-fe63adba8c27" />
 
-<img width="722" height="82" alt="7" src="https://github.com/user-attachments/assets/37260091-e6ef-473c-949c-d467d6d6fb5c" />
 
 
 ### arp:
 
 
-<img width="1068" height="778" alt="8" src="https://github.com/user-attachments/assets/6b096bb4-7711-43e8-8f7e-c8ef34e81dfb" />
+<img width="1010" height="770" alt="Screenshot 2026-05-19 212830" src="https://github.com/user-attachments/assets/83aecac3-f780-4db0-bc1a-aaa07acd578f" />
+
 
 
 ### systeminfo:
 
 
-<img width="1208" height="1088" alt="image" src="https://github.com/user-attachments/assets/c9d41401-684f-498e-adf0-dca6a67d417d" />
+<img width="1132" height="937" alt="Screenshot 2026-05-19 212932" src="https://github.com/user-attachments/assets/9dd99fad-fb3e-4c6a-8ef3-3381c6759001" />
 
 
 
 ### netsh wlan show profiles :
 
 
-<img width="813" height="928" alt="image" src="https://github.com/user-attachments/assets/4c23ad83-be6f-4b58-a8e5-0e10b60e3f0c" />
+<img width="784" height="920" alt="Screenshot 2026-05-19 213112" src="https://github.com/user-attachments/assets/237fb9e7-7001-4994-b6d0-afb43592f827" />
+
 
 
 
