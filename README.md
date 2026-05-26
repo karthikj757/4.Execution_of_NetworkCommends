@@ -76,7 +76,7 @@ This commands includes
 ### arp:
 
 
-<img width="1010" height="770" alt="Screenshot 2026-05-19 212830" src="https://github.com/user-attachments/assets/83aecac3-f780-4db0-bc1a-aaa07acd578f" />
+<img width="723" height="492" alt="WhatsApp Image 2026-05-26 at 2 24 24 PM" src="https://github.com/user-attachments/assets/7e54f2e2-5a61-4ff5-8cb1-958e31071339" />
 
 
 
